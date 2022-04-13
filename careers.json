@@ -1,19 +1,26 @@
 {
+  "Design": [
+    {
+      "title": "UI/UX Designer",
+      "link": "https://www.ziprecruiter.com/job/3d523eb7",
+      "other": ["Los Angeles", "Full Time"]
+    }
+  ],
   "Engineering": [
     {
       "title": "Full Stack Developer (Blockchain)",
       "link": "https://www.ziprecruiter.com/jobs/myetherwallet-inc-1ed52b5b/full-stack-developer-blockchain-6cb484e3",
-      "other": ["Remote", "Los angeles", "Full Time"]
+      "other": ["Remote", "Los Angeles", "Full Time"]
     },
     {
       "title": "Senior Front End Developer (Blockchain)",
       "link": "https://www.ziprecruiter.com/jobs/myetherwallet-inc-1ed52b5b/front-end-developer-a8a4965d",
-      "other": ["Remote", "Los angeles", "Full Time"]
+      "other": ["Remote", "Los Angeles", "Full Time"]
     },
     {
       "title": "Back End Developer (Blockchain)",
       "link": "https://www.ziprecruiter.com/job/6b469fb3",
-      "other": ["Remote", "Los angeles", "Full Time"]
+      "other": ["Remote", "Los Angeles", "Full Time"]
     }
   ],
   "Customer Support": [],
