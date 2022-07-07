@@ -1,0 +1,28 @@
+{
+  "Team": [
+    { "img": "assets/images/team/kosala.jpg", "name": "Kosala",  "title": "Founder/CEO"},
+    { "img": "assets/images/team/brian.jpg", "name": "Brian",  "title": "COO"},
+    { "img": "assets/images/team/brian.jpg", "name": "Olga",  "title": "VP"},
+    { "img": "assets/images/team/olga.jpg", "name": "Alex",  "title": "Director of Mobile"},
+    { "img": "assets/images/team/misha.jpg", "name": "Misha",  "title": "Lead Mobile Developer"},
+    { "img": "assets/images/team/gamaliel.jpg", "name": "Yel",  "title": "Lead Web Developer"},
+    { "img": "assets/images/team/gage.jpg", "name": "Gage",  "title": "Full-Stack Developer"},
+    { "img": "assets/images/team/david.jpg", "name": "David",  "title": "Front-End Developer"},
+    { "img": "assets/images/team/raden.jpg", "name": "Raden",  "title": "Full-Stack Developer"},
+    { "img": "assets/images/team/andrew.jpg", "name": "Andrew",  "title": "Full-Stack Developer"},
+    { "img": "assets/images/team/semaja.jpg", "name": "Semaja",  "title": "QA Specialist"},
+    { "img": "assets/images/team/russell.jpg", "name": "Russell",  "title": "Product UI/UX"},
+    { "img": "assets/images/team/brittany.jpg", "name": "Brittany",  "title": "Operations Manager"},
+    { "img": "assets/images/team/vince.jpg", "name": "Vince", "title": "Marketing Manager" },
+    { "img": "assets/images/team/katya.jpg", "name": "Katya", "title": "Community and Content Lead" },
+    { "img": "assets/images/team/placeholder.jpg", "name": "Kealii",  "title": "Social Media Specialist"},
+    { "img": "assets/images/team/brionne.jpg", "name": "Brionne",  "title": "Educational Content Writer"},
+    { "img": "assets/images/team/marcus.jpg", "name": "Marcus",  "title": "Blockchain Community Specialist"},
+    { "img": "assets/images/team/chindalath.jpg", "name": "Chindalath",  "title": "Blockchain Community Specialist"},
+    { "img": "assets/images/team/andrew-dao.jpg", "name": "Andrew Dao",  "title": "Blockchain Community Specialist"},
+    { "img": "assets/images/team/jazmine.jpg", "name": "Jasmine",  "title": "Blockchain Community Specialist"},
+    { "img": "assets/images/team/michael.jpg", "name": "Michael",  "title": "Blockchain Community Specialist"},
+    { "img": "assets/images/team/richie.jpg", "name": "Wolfgang",  "title": "Blockchain Community Specialist"},
+    { "img": "assets/images/team/placeholder.jpg", "name": "Lila",  "title": "Executive Assistant"}
+  ]
+}
