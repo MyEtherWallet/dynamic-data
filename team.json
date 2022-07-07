@@ -1,6 +1,6 @@
 {
   "Team": [
-    { "img": "dynamic-data/assets/images/team/kosala.jpg", "name": "Kosala",  "title": "Founder/CEO"},
+    { "img": "https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/kosala.jpg", "name": "Kosala",  "title": "Founder/CEO"},
     { "img": "assets/images/team/brian.jpg", "name": "Brian",  "title": "COO"},
     { "img": "assets/images/team/brian.jpg", "name": "Olga",  "title": "VP"},
     { "img": "assets/images/team/olga.jpg", "name": "Alex",  "title": "Director of Mobile"},
