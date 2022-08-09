@@ -1,87 +1,87 @@
 {
   "Team": [
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/kosala.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/kosala.png",
       "name": "Kosala",
       "title": "Founder/CEO"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/brian.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/brian.png",
       "name": "Brian",
       "title": "COO"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/olga.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/olga.png",
       "name": "Olga",
       "title": "VP"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/alex.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/alex.png",
       "name": "Alex",
       "title": "Director of Mobile"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/misha.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/misha.png",
       "name": "Misha",
       "title": "Lead Mobile Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/gamaliel.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/gamaliel.png",
       "name": "Yel",
       "title": "Lead Web Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/gage.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/gage.png",
       "name": "Gage",
       "title": "Full-Stack Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/david.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/david.png",
       "name": "David",
       "title": "Front-End Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/raden.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/raden.png",
       "name": "Raden",
       "title": "Full-Stack Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/andrew.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/andrew.png",
       "name": "Andrew",
       "title": "Full-Stack Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/marcus.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/marcus.png",
       "name": "Marcus",
       "title": "Junior Developer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/semaja.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/semaja.png",
       "name": "Semaja",
       "title": "QA Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/chindalath.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/chindalath.png",
       "name": "Chindalath",
       "title": "QA Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/russell.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/russell.png",
       "name": "Russell",
       "title": "Product UI/UX"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/brittany.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/brittany.png",
       "name": "Brittany",
       "title": "Operations Manager"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/vince.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/vince.png",
       "name": "Vince",
       "title": "Marketing Manager"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/katya.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/katya.png",
       "name": "Katya",
       "title": "Community and Content Lead"
     },
@@ -91,37 +91,37 @@
       "title": "Social Media Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/brionne.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/brionne.png",
       "name": "Brionne",
       "title": "Educational Content Writer"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/andrew-dao.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/andrew-dao.png",
       "name": "Andrew Dao",
       "title": "Blockchain Community Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/jazmine.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/jazmine.png",
       "name": "Jasmine",
       "title": "Blockchain Community Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/michael.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/michael.png",
       "name": "Michael",
       "title": "Blockchain Community Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/christian.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/christian.png",
       "name": "Christian",
       "title": "Blockchain Community Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/richie.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/richie.png",
       "name": "Wolfgang",
       "title": "Blockchain Community Specialist"
     },
     {
-      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/placeholder.jpg",
+      "img": "https://img.mewapi.io/?image=https://raw.githubusercontent.com/MyEtherWallet/dynamic-data/main/assets/images/team/placeholder.png",
       "name": "Lily",
       "title": "Executive Assistant"
     }
